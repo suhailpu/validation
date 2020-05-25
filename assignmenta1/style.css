@@ -1,0 +1,110 @@
+.navbar {
+background-color: darkblue;
+color: white;
+}
+.container{
+    background-color: darkmagenta;
+    margin: 0pt;
+    padding: 30px;
+}
+.headd{
+    color: white;
+    font-family: "Lucida Console", Courier, monospace;
+}
+.box1{
+    background-color: khaki;
+    border: magenta;
+    margin: auto;
+    padding: 20px;
+    margin-top: -20px;
+}
+.pp{
+    border-radius: 60%;
+}
+}
+.button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 10px;
+    cursor: pointer;
+  }
+  
+  .button2 {background-color: #008CBA;}
+  .button3 {background-color: #f44336;} 
+  .footer{
+      margin: 20px;
+  }
+  .button4{
+      background-color: orangered;
+      float: right;
+  }
+  .box9{
+    border: 15px;
+    background-color: khaki;
+    margin: auto;
+    align-items: center;
+}
+.box9 input[type="email"]{
+    display: block;
+    margin: auto;
+    color: black;
+    text-align: center;
+    border: 2px solid darkmagenta;
+    background: none;
+    padding: 14px, 10px;
+    width: 280px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 15px; 
+}
+.box9 input[type="password"]{
+    display: block;
+    color: black;
+    margin: auto;
+    text-align: center;
+    border: 2px solid darkmagenta;
+    background: none;
+    padding: 14px, 10px;
+    width: 280px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 15px;  
+}
+.box9 input[type="submit"]{
+    display: block;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    background: darkmagenta;
+    padding: 14px, 10px;
+    width: 280px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 12px;
+    color: blanchedalmond;
+}
+.box9 input[type="text"]{
+    display: block;
+    color: black;
+    margin: auto;
+    text-align: center;
+    border: 2px solid darkmagenta;
+    background: none;
+    padding: 14px, 10px;
+    width: 280px;
+    height: 40px;
+    border-radius: 25px;
+    margin-top: 15px;  
+}
+body{
+    background-color: #df99e0;
+}
